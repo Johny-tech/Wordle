@@ -32,6 +32,8 @@ class KeyboardCell: UICollectionViewCell {
     // START YOUR CODE HERE
     // ...
     // END YOUR CODE HERE
+      self.string = string
+      self.label.text = string
   }
 
   // Exercise 5: Call the `didSelectString` closure and pass in the string this cell holds (see line 14)
@@ -40,5 +42,6 @@ class KeyboardCell: UICollectionViewCell {
     // START YOUR CODE HERE
     // ...
     // END YOUR CODE HERE
+      didSelectString?(self.string)
   }
 }
