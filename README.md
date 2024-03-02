@@ -29,9 +29,7 @@ The following features are implemented as part of Exercise 9:
 Loom | Free Screen & Video Recording Software | Loom - 2 March 2024 - Watch Video
 
 <div>
-    <a href="https://www.loom.com/share/9f9923e137034fb8a9780105177bae12">
-      <p>Loom | Free Screen & Video Recording Software | Loom - 2 March 2024 - Watch Video</p>
-    </a>
+ 
     <a href="https://www.loom.com/share/9f9923e137034fb8a9780105177bae12">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9f9923e137034fb8a9780105177bae12-with-play.gif">
     </a>
