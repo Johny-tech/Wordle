@@ -40,7 +40,7 @@ Loom | Free Screen & Video Recording Software | Loom - 2 March 2024 - Watch Vide
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Understanging the basic structure of the UIkit is still being a quite illusive concept.
 
 ## License
 
